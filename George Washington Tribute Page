@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>George Washington Tribute Page</title>
+    
+
+<style>
+
+*{
+margin:0;
+
+}
+
+body{
+background-image: linear-gradient(to bottom, burlywood, brown);
+
+
+}
+
+#banner-box{
+
+  background-image: linear-gradient(to right, blue, white,white, red);
+
+  text-align:center;
+  height: 120px;
+  color: gold;
+}
+    
+#banner-tittle{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: 900;
+    }
+    
+img{
+  width:550px;
+  margin: 20px 0px 0px 400px;
+  border: 5px groove;
+  border-color: goldenrod;
+  border-radius: 40%;
+
+}
+    
+article{
+        background-image: url(https://wallpapercave.com/wp/cNQ0NLw.jpg);
+        text-align: center;
+        margin: 35px 60px 30px 60px;
+        padding: 20px 0px 40px 0px;
+        border: 5px groove;
+        border-color: goldenrod;
+        }
+    
+ h2{
+        font-family: cursive;
+        font-weight: bold;
+         }
+    
+p{
+        font-family: cursive;
+        margin-top: 10px;
+        padding: 0px 80px 0px 80px;
+    }
+
+</style>
+    
+
+</head>
+<body>
+<div id="banner-box">
+<h1 id="banner-tittle">George Washington</h1>
+<h2>An American Hero</h2>
+</div>
+<p><img src="https://tse4.mm.bing.net/th/id/OIP.DW8GuPAXwPOcOuVJOJLlZwHaE8?w=248&amp;h=180&amp;c=7&amp;o=5&amp;dpr=1.25&amp;pid=1.7 " /></p>
+<article> 
+<h2> Introduction </h2>
+<p>George Washington  was an American political leader, military general, statesman, and founding father who served as the first president of the United States from 1789 to 1797. Previously, he led Patriot forces to victory in the nation's War for Independence. He presided at the Constitutional Convention of 1787, which established the U.S. Constitution and a federal government. Washington has been called the "Father of His Country" for his manifold leadership in the formative days of the new nation. </p>
+</article>
+<article> 
+<h2> Early Life </h2>
+<p>Washington was born on February 22, 1732, in Westmoreland County, Virginia. He was the eldest of Augustine and Mary’s six children, all of whom survived into adulthood.The family lived on Pope's Creek in Westmoreland County, Virginia. They were moderately prosperous members of Virginia's middling class. </p>
+
+<p> Few details about Washington’s early education are known, although children of prosperous families like his typically were taught at home by private tutors or attended private schools. It’s believed he finished his formal schooling at around age 15.As a teenager, Washington, who had shown an aptitude for mathematics, became a successful surveyor. His surveying expeditions into the Virginia wilderness earned him enough money to begin acquiring land of his own.</p>
+    
+<p> Washington could trace his family's presence in North America to his great-grandfather,John Washington, who migrated from England to Virginia. The family held some distinction in England and was granted land by Henry VIII.But much of the family’s wealth in England was lost under the Puritan government.</p>
+</article>
+
+<article> 
+<h2> Early Military Career </h2>
+<p>In December 1752, Washington, who had no previous military experience, was made a commander of the Virginia militia. He saw action in the French and Indian War and was eventually put in charge of all of Virginia’s militia forces. By 1759, Washington had resigned his commission, returned to Mount Vernon and was elected to the Virginia House of Burgesses, where he served until 1774. 
+</p>
+</article>
+
+<article>
+ <h2>The American Revolution</h2>
+ <p>By the late 1760s, Washington had experienced firsthand the effects of rising taxes imposed on American colonists by the British, and came to believe that it was in the best interests of the colonists to declare independence from England. Washington served as a delegate to the First Continental Congress in 1774 in Philadelphia. By the time the Second Continental Congress convened a year later, the American Revolution had begun in earnest, and Washington was named commander in chief of the Continental Army.</p>
+    
+<p> Washington proved to be a better general than military strategist. His strength lay not in his genius on the battlefield but in his ability to keep the struggling colonial army together. His troops were poorly trained and lacked food, ammunition and other supplies (soldiers sometimes even went without shoes in winter). However, Washington was able to give them the direction and motivation. His leadership during the winter of 1777-1778 at Valley Forge was a testament to his power to inspire his men to keep going.</p>
+    
+<p> Over the course of the grueling eight-year war, the colonial forces won few battles but consistently held their own against the British. In October 1781, with the aid of the French (who allied themselves with the colonists over their rivals the British), the Continental forces were able to capture British troops under General Charles Cornwallis (1738-1805) in the Battle of Yorktown. This action effectively ended the Revolutionary War and Washington was declared a <em>national hero</em>.</p>
+</article>
+    
+<article>
+ <h2> Presidency </h2>
+ <p> n 1783, with the signing of the Treaty of Paris between Great Britain and the U.S., Washington, believing he had done his duty, gave up his command of the army and returned to Mount Vernon, intent on resuming his life as a gentleman farmer and family man. However, in 1787, he was asked to attend the Constitutional Convention in Philadelphia and head the committee to draft the new constitution. His impressive leadership there convinced the delegates that he was by far the most qualified man to become the nation’s first president.</p>
+    
+<p> At first Washington balked. He wanted to, at last, return to a quiet life at home and leave governing the new nation to others. But public opinion was so strong that eventually he gave in. The first presidential election was held on January 7, 1789, and Washington won handily. John Adams (1735-1826), who received the second-largest number of votes, became the nation’s first vice president. The 57-year-old Washington was inaugurated on April 30, 1789, in New York City. Because Washington, D.C., America’s future capital city wasn’t yet built, he lived in New York and Philadelphia. While in office, he signed a bill establishing a future, permanent U.S. capital along the Potomac River—the city later named Washington, D.C., in his honor.</p>
+</article>
+    
+<article>
+<h2> More Resources About George Washington</h2>
+ <h2><a href="https://en.wikipedia.org/wiki/Military_career_of_George_Washington">George Washington Wikipedia Page</a></h2>
+ <h2><a href="https://www.history.com/topics/us-presidents/george-washington">History.com</a></h2>
+<h2><a href="www.pages.drexel.edu/~cjd327/military.html">pages.drexel.edu</a></h2>
+</article>
+
+</body>
+    
+<!-- background-image: linear-gradient(180deg, darkgray, gray);-->
+</html>
